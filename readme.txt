@@ -1,3 +1,5 @@
-°Ñ data.txt ·ÅÔÚÄ¿Â¼ÏÂ¼´¿ÉÔËĞĞ£¬ÓĞexe¡£
-initialÊÇasc2±àÂë¸ñÊ½µÄ£¬Òª¿´µÄ»°ÓÃnotpad´ò¿ª»òÕß¸ÄtxtµÄ±àÂë¶ÁÈ¡¸ñÊ½£¬ÊÇÒ»¸öÖĞ¼ä½á¹û£¬²»Ó°ÏìÏµÍ³Õı³£Ê¹ÓÃ¡£
-½á¹û´æÔÚcount.txtÀï¡£
+æŠŠ data.txt æ”¾åœ¨ç›®å½•ä¸‹å³å¯è¿è¡Œï¼Œæœ‰exeã€‚
+initialæ˜¯asc2ç¼–ç æ ¼å¼çš„ï¼Œè¦çœ‹çš„è¯ç”¨notpadæ‰“å¼€æˆ–è€…æ”¹txtçš„ç¼–ç è¯»å–æ ¼å¼ï¼Œæ˜¯ä¸€ä¸ªä¸­é—´ç»“æœï¼Œä¸å½±å“ç³»ç»Ÿæ­£å¸¸ä½¿ç”¨ã€‚
+ç»“æœå­˜åœ¨count.txté‡Œã€‚
+
+This is a big homework for a friend's chind,which is for C++ class. It is used for how to statistic the initials words in a english doc. Hope it may help for you. 
